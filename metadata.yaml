@@ -1,0 +1,31 @@
+_repo: The-Voice-of-the-People_16505
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glasgow, Ellen Anderson Gholson
+    birthdate: 1873
+    deathdate: 1945
+    gutenberg_agent_id: '885'
+    url: http://www.gutenberg.org/2009/agents/885
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Glasgow
+description: In this 1900 novel, Glasgow examines the effects of the Civil War and
+  Reconstruction on Southern life, focusing especially on race, class, and gender
+  themes that would continue in her literature. Nicholas Burr, the son of a poor white
+  farmer, rises to the governorship of Virginia. Yet his political success, tempered
+  by disappointment in love, leads to a tragic outcome.
+gutenberg_issued: '2005-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Social life and customs -- Fiction'
+- !lcc 'PS'
+title: The Voice of the People
+url: http://www.gutenberg.org/ebooks/16505
